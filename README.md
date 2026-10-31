@@ -4,7 +4,7 @@
 
 ### Rebrand the whole platform from the admin panel, without touching code
 
-**Product owner:** [TitanEd](https://github.com/TitanEd) &nbsp;·&nbsp; **My role:** Frontend Engineer (design-token system and theme builder) &nbsp;·&nbsp; **Aug 2026 – Oct 2026**
+**Product owner:** [TitanEd](https://github.com/TitanEd) &nbsp;·&nbsp; **My role:** Frontend Engineer at TitanEd &nbsp;·&nbsp; **Aug 2026 – Oct 2026**
 
 ![Design Tokens](https://img.shields.io/badge/Design%20Tokens-7B61FF?style=flat)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
@@ -22,9 +22,9 @@
 Every customer wants the platform in **their own brand**. On standard Open edX, changing the look means a developer editing
 styles across **11 separate apps**, then a rebuild and a deploy. It's slow and expensive for every client, and it can break things.
 
-## ✅ What I delivered
+## ✅ My contribution
 
-A **design-token theming system with a theme builder**. Admins change the entire look of the platform **from the admin panel,
+As part of the TitanEd team, I worked on a **design-token theming system with a theme builder**. Admins change the entire look of the platform **from the admin panel,
 without touching code**:
 
 | An admin can change | Where it applies |
