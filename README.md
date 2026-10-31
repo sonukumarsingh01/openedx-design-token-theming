@@ -4,7 +4,7 @@
 
 ### Rebrand the whole platform from the admin panel, without touching code
 
-**Product owner:** [TitanEd](https://github.com/TitanEd) &nbsp;·&nbsp; **My role:** Frontend Engineer at TitanEd &nbsp;·&nbsp; **Aug 2026 – Oct 2026**
+**Product owner:** [TitanEd](https://github.com/TitanEd) &nbsp;·&nbsp; **My role:** Software Engineer at TitanEd &nbsp;·&nbsp; **Aug 2026 – Oct 2026**
 
 ![Design Tokens](https://img.shields.io/badge/Design%20Tokens-7B61FF?style=flat)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
@@ -63,6 +63,6 @@ without touching code**:
 
 <div align="center">
 
-**Sonu Kumar** · Frontend Engineer · [LinkedIn](https://www.linkedin.com/in/dr-sonu-kumar/) · [GitHub](https://github.com/sonukumarsingh01)
+**Sonu Kumar** · Software Engineer · [LinkedIn](https://www.linkedin.com/in/dr-sonu-kumar/) · [GitHub](https://github.com/sonukumarsingh01)
 
 </div>
